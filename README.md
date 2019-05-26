@@ -12,5 +12,5 @@ As três diferentes abordagens seriam:
 Estudo feito em 2016 na Universidade Federal do ABC para a disciplina Algoritmos e Estruturas de Dados II.
 
 Para mais informações veja os PDFs:
-https://github.com/fabriciorby/poker-hand-evaluation-study/blob/master/AEDII-Relat%C3%B3rio.pdf
-https://github.com/fabriciorby/poker-hand-evaluation-study/blob/master/AEDII-Apresenta%C3%A7%C3%A3o.pdf
+- [PDF Relatório](https://github.com/fabriciorby/poker-hand-evaluation-study/blob/master/AEDII-Relat%C3%B3rio.pdf)
+- [PDF Apresentação](https://github.com/fabriciorby/poker-hand-evaluation-study/blob/master/AEDII-Apresenta%C3%A7%C3%A3o.pdf)
